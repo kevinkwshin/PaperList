@@ -5,4 +5,4 @@
 
 ## Signal
 
-### Improving Mechanical Ventilator Clinical Decision Support Systems with A Machine Learning Classifier for Determining Ventilator Mode [paper]
+### Improving Mechanical Ventilator Clinical Decision Support Systems with A Machine Learning Classifier for Determining Ventilator Mode [paper] https://arxiv.org/pdf/1904.12969.pdf
