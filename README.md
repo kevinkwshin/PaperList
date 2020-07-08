@@ -1,6 +1,6 @@
-# Segmentation
+## Segmentation
 
 
-# Signal
+## Signal
 
-## Improving Mechanical Ventilator Clinical Decision Support Systems with A Machine Learning Classifier for Determining Ventilator Mode
+### Improving Mechanical Ventilator Clinical Decision Support Systems with A Machine Learning Classifier for Determining Ventilator Mode
